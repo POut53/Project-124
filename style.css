@@ -1,0 +1,22 @@
+.span-heading{
+    border-radius: 10px;
+    box-shadow: lightblue 5px 5px 10px;
+}
+.footer{
+    bottom: 0px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    font-size: 22px;
+}
+body{
+    background-color: lightblue;
+}
+canvas{
+    background-color: cyan;
+    border: 5px solid darkblue;
+}
+.heading{
+    background-color: orange;
+    color: white;
+}
